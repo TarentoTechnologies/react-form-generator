@@ -179,6 +179,6 @@ class Example extends Component {
 
 ## License
 
-MIT © [shoaib-mohmad](https://github.com/shoaib-mohmad)
+Apache 2.0
 
 # tarento-react-form-generator
