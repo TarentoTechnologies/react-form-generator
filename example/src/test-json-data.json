@@ -1,0 +1,168 @@
+{
+    "statusInfo": {
+        "statusCode": 200,
+        "statusMessage": "success",
+        "errorMessage": ""
+    },
+    "responseData": {
+        "updatedDate": 1587100394571,
+        "fields": [
+            {
+                "refApi": "",
+                "logicalGroupCode": "",
+                "name": "Name",
+                "fieldType": "text",
+                "values": [],
+                "order": 1,
+                "isRequired": true,
+                "width": 6.0
+            },
+            {
+                "refApi": "",
+                "logicalGroupCode": "",
+                "name": "Email",
+                "fieldType": "email",
+                "values": [],
+                "order": 2,
+                "isRequired": true,
+                "width": 6.0
+            },
+            {
+                "refApi": "",
+                "logicalGroupCode": "",
+                "name": "Mobile",
+                "fieldType": "numeric",
+                "values": [],
+                "order": 3,
+                "isRequired": true,
+                "width": 6.0
+            },
+            {
+                "refApi": "",
+                "logicalGroupCode": "",
+                "name": "Address",
+                "fieldType": "textarea",
+                "values": [],
+                "order": 4,
+                "isRequired": true,
+                "width": 6.0
+            },
+            {
+                "refApi": "",
+                "logicalGroupCode": "",
+                "name": "separator",
+                "fieldType": "separator",
+                "values": [],
+                "order": 5,
+                "isRequired": false
+            },
+            {
+                "refApi": "",
+                "logicalGroupCode": "",
+                "name": "heading",
+                "fieldType": "heading",
+                "values": [
+                    {
+                        "heading": "Other Information",
+                        "subHeading": "Please fill other information"
+                    }
+                ],
+                "order": 6,
+                "isRequired": false
+            },
+            {
+                "refApi": "",
+                "logicalGroupCode": "",
+                "name": "Gender",
+                "fieldType": "radio",
+                "values": [
+                    {
+                        "value": "Male",
+                        "key": "Male"
+                    },
+                    {
+                        "value": "Female",
+                        "key": "Female"
+                    }
+                ],
+                "order": 7,
+                "isRequired": false
+            },
+            {
+                "refApi": "",
+                "logicalGroupCode": "",
+                "name": "DOB",
+                "fieldType": "date",
+                "values": [],
+                "order": 8,
+                "isRequired": false,
+                "width": 2.0
+            },
+            {
+                "refApi": "",
+                "logicalGroupCode": "",
+                "name": "Willing to work in:",
+                "fieldType": "checkbox",
+                "values": [
+                    {
+                        "value": "Bangalore",
+                        "key": "Bangalore"
+                    },
+                    {
+                        "value": "Delhi",
+                        "key": "Delhi"
+                    }
+                ],
+                "order": 9,
+                "isRequired": false
+            },
+            {
+                "refApi": "",
+                "logicalGroupCode": "",
+                "name": "Current Location",
+                "fieldType": "dropdown",
+                "values": [
+                    {
+                        "value": "Delhi",
+                        "key": "Delhi"
+                    },
+                    {
+                        "value": "Hyderabad",
+                        "key": "Hyderabad"
+                    },
+                    {
+                        "value": "Bangalore",
+                        "key": "Bangalore"
+                    },
+                    {
+                        "value": "Chennai",
+                        "key": "Chennai"
+                    }
+                ],
+                "order": 10,
+                "isRequired": false
+            },
+            {
+                "refApi": "",
+                "logicalGroupCode": "",
+                "name": "Rate your Skills",
+                "fieldType": "rating",
+                "values": [],
+                "order": 11,
+                "isRequired": false
+            },
+            {
+                "refApi": "",
+                "logicalGroupCode": "",
+                "name": "Share your profile with others:",
+                "fieldType": "boolean",
+                "values": [],
+                "order": 12,
+                "isRequired": false
+            }
+        ],
+        "id": 1587100320734,
+        "title": "Test 007",
+        "version": 3
+    }
+}
